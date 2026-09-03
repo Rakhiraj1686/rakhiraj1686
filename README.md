@@ -56,22 +56,20 @@
 
 
 ## 💡 Featured Projects  
+💬 DostiHUB
 
-### 🍔 Craving  
-A modern food delivery web application with seamless ordering experience.  
-🔗 http://craving  
+A real-time chat application enabling instant communication using WebSocket.
+🔗https://chat-app-rdx.vercel.app/
 
----
+🏥 HealthUP
 
-### 💬 DostiHUB  
-A real-time chat application enabling instant communication using WebSocket.  
-🔗 http://dostiHUB  
+An AI-powered healthcare platform providing personalized health insights and smart recommendations.
+🔗 https://healthup-ai.vercel.app/
 
----
+🚌 TransitOps
 
-### 🏥 HealthUP  
-An AI-powered healthcare platform providing personalized health insights and smart recommendations.  
-🔗 https://healthup-ai.netlify.app/  
+A smart transit management platform designed to streamline transportation operations, user management, and real-time transit workflows.
+🔗 https://transitops-rk.vercel.app/
 
 ---
 
